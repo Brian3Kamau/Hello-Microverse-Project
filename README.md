@@ -82,11 +82,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **h1 Should be used for the Title**
-- **rgb or any other color code to be used in the css styling**
-
+Two key features of the application are:- 
+- **1. h1 Should be used for the Title**
+- **2. rgb or any other color code to be used in the css styling**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -132,10 +130,7 @@ VScode or any other File Editor of your Choice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Author <a name="authors"></a>
-
 
 👤 **Author**
 
@@ -145,14 +140,14 @@ VScode or any other File Editor of your Choice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+This project will be updated to include the following features:- 
 
-- [ ] **Header and Footers will be added**
-- [ ] **Navbar links will also be added**
-- [ ] **Main page content will be updated**
+- [ ] **Header and Footers**
+- [ ] **Navbar links**
+- [ ] **Main page content**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,11 +176,11 @@ I would like to thank the microverse community, especially the code editors who 
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **How do copy this project?**
+- **How do I copy this project?**
 
   - [Clone this repository to your desired folder and open it using VScode]
 
-- **[How do i chnage the Color of the h1 text]**
+- **[How do I change the Color of the h1 text?]**
 
   - [Open style.css in your VScode and change the color to your preference]
 
