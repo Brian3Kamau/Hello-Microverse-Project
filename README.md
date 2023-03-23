@@ -25,16 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -67,8 +57,6 @@ After you're finished please remove all the comments and instructions!
 
 ### HTML and CSS <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -96,25 +84,19 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **h1 Should be used for the Title**
+- **rgb or any other color code to be used in the css styling**
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://www.youtube.com/watch?v=QcZKsbgsLa4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -122,14 +104,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
+to have VS code or any other text editor installed in your Computer 
+and you also need to sign in to GitHub 
 ### Setup
 
 Clone this repository to your desired folder:
@@ -173,11 +149,10 @@ VScode or any other File Editor of your Choice.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **Header and Footers**
-- [ ] **Nav bars**
-- [ ] **main page content **
+- [ ] **Header and Footers will be added**
+- [ ] **Navbar links will also be added**
+- [ ] **Main page content will be updated**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,8 +180,6 @@ I would like to thank the microverse community, especially the code editors who 
 
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **How do copy this project?**
 
