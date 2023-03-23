@@ -109,7 +109,7 @@ and you also need to sign in to GitHub
 Clone this repository to your desired folder:
 
   in your terminal cd folder
-  git clone git@github.com:Brian3Kamau/Hello-Microverse-Project.git
+  git clone (git@github.com:Brian3Kamau/Hello-Microverse-Project.git)
 
 ### Usage
 
