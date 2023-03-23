@@ -31,20 +31,6 @@
 
 ### HTML and CSS <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.w3schools.com/html/</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.tutorialspoint.com/css/index.htm</a></li>
-  </ul>
-</details>
-
 ### Key Features <a name="key-features"></a>
 
 - **1. h1 Should be used for the Title**
@@ -140,6 +126,6 @@ I would like to thank the microverse community, especially the code editors who 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Brian3Kamau/Hello-Microverse-Project/blob/main/LICENCE.md) licensed.
+This project is [MIT](https://github.com/Brian3Kamau/Hello-Microverse-Project/pull/1/files#diff-8c8919216182c2f73954fc4c038407f3bb66c8740d3df3d12a5114356e5a775c) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
