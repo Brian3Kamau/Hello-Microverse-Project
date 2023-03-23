@@ -88,7 +88,7 @@ Two key features of the application are:-
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://www.youtube.com/watch?v=QcZKsbgsLa4)
+- For a live Demo [Click here](https://www.youtube.com/watch?v=QcZKsbgsLa4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ and you also need to sign in to GitHub
 Clone this repository to your desired folder:
 
   in your terminal cd folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:Brian3Kamau/Hello-Microverse-Project.git
 
 ### Usage
 
@@ -178,11 +178,11 @@ I would like to thank the microverse community, especially the code editors who 
 
 - **How do I copy this project?**
 
-  - [Clone this repository to your desired folder and open it using VScode]
+  - Clone this repository to your desired folder and open it using VScode
 
-- **[How do I change the Color of the h1 text?]**
+- **How do I change the Color of the h1 text?**
 
-  - [Open style.css in your VScode and change the color to your preference]
+  - Open style.css in your VScode and change the color to your preference
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
